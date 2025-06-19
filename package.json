@@ -3,10 +3,10 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://yuriiavr.github.io/goit-advancedjs-hw-03",
+  "homepage": "https://yuriiavr.github.io/goit-advancedjs-hw-04",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-advancedjs-hw-03/",
+    "build": "vite build --base=/goit-advancedjs-hw-04/",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
